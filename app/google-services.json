@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "298870326465",
+    "project_id": "cloud-lab-fbe7e",
+    "storage_bucket": "cloud-lab-fbe7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298870326465:android:5a7be35ce0804527758040",
+        "android_client_info": {
+          "package_name": "com.b.alkhatib.cloudlab_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298870326465-se4ed0p9spr75a3qnsogss54oirbesck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3_k3S9JMc8nqgQ1kWzg2FDpf4tU2_6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298870326465-se4ed0p9spr75a3qnsogss54oirbesck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298870326465:android:2c7f18c239d441ac758040",
+        "android_client_info": {
+          "package_name": "com.b.alkhatib.cloudlab_firstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298870326465-se4ed0p9spr75a3qnsogss54oirbesck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc3_k3S9JMc8nqgQ1kWzg2FDpf4tU2_6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298870326465-se4ed0p9spr75a3qnsogss54oirbesck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
