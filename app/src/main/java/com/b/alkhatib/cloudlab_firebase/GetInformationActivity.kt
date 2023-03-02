@@ -37,7 +37,8 @@ class GetInformationActivity : AppCompatActivity() {
                         val name = document.get("name").toString()
                         val number = document.get("number").toString()
                         val address = document.get("address").toString()
-                        usersData.add(User(name, number, address))
+                        val id = document.id
+                        usersData.add(User(id = id, name = name, number = number, address = address))
 
                     }
                     val userInfoAdapter = UserAdapter(this, usersData)
